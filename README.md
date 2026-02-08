@@ -30,7 +30,7 @@ The following packages are required for compilation.
 
 ---
 
-## 1. Quick Installation (Recommended)
+## 1.immediately Installation (Recommended)
 
 The easiest way to build **ndd** is using the included `install.sh` script. This script handles OS detection, dependency checks, and configuration automatically.
 
