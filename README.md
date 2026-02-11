@@ -252,7 +252,8 @@ These limitations keep the project simple and easy to evaluate.
 
 Below is a screenshot of the ChatGPT-style dashboard used in this project:
 
-![ChatGPT-style Dashboard](dashboard.png)
+![ChatGPT-style Dashboard](RAG_Chatbot/dashboard.png)
+
 
 
 ## Evaluation Compliance (Endee Labs)
