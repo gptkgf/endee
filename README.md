@@ -1,4 +1,18 @@
 # Endee‑Powered RAG Semantic Search Chatbot
+## RAG_Chatbot (Student Project)
+
+This repository is a fork of the official **Endee** vector database.
+
+The **RAG_Chatbot** directory contains my project implementation for the Endee Labs evaluation.  
+It demonstrates a **Semantic Search and Retrieval Augmented Generation (RAG) chatbot** built using Endee as the vector database.
+
+📁 Project Location: `RAG_Chatbot/`
+## Project Navigation
+
+- 🔹 **Endee Core (C/C++)** – Root repository
+- 🔹 **RAG Chatbot (Python)** – [`RAG_Chatbot/`](RAG_Chatbot)
+
+
 
 **Endee RAG Chatbot** is a practical AI application that demonstrates how a high‑performance vector database (Endee) can be used to build **Semantic Search** and **Retrieval Augmented Generation (RAG)** systems. This document provides a detailed overview of the project, system requirements, setup instructions, architecture, and usage—written in a clear, production‑style format similar to core infrastructure READMEs.
 
