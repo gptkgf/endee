@@ -1,0 +1,39 @@
+This project is a semantic search and RAG-based chatbot built using Endee as a vector database.
+
+The main purpose of this project is to demonstrate how vector databases can be used in real-world AI applications.
+
+Endee is used in this project because it provides efficient vector similarity search, which is essential for semantic search.
+
+Semantic search retrieves information based on the meaning of the query rather than exact keyword matching.
+
+RAG stands for Retrieval Augmented Generation and improves answer accuracy by using retrieved documents.
+
+In this project, documents are converted into numerical embeddings using a sentence transformer model.
+
+The embeddings are stored in Endee, which acts as the core vector database.
+
+When a user asks a question, the question is also converted into an embedding.
+
+Endee compares the question embedding with stored document embeddings to find the most relevant answer.
+
+This chatbot answers only document-based questions and avoids hallucinated responses.
+
+If an answer is not found in the documents, the chatbot responds with an appropriate fallback message.
+
+This project does not require an API key because it runs locally using open-source models.
+
+The chatbot interface is designed similar to ChatGPT for better user interaction.
+
+This project demonstrates a practical use case of semantic search using vector databases.
+
+Such chatbots can be used in knowledge base systems, document search tools, and AI assistants.
+
+The project is hosted on GitHub with a clean and well-documented README file.
+
+Forking the Endee repository allows independent development without affecting the original code.
+
+This project follows the evaluation guidelines provided by Endee Labs.
+
+The chatbot architecture includes document ingestion, embedding generation, vector storage, retrieval, and response generation.
+
+Endee acts as the backbone of this project by enabling fast and accurate semantic retrieval.
