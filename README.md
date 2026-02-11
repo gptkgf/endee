@@ -54,9 +54,9 @@ Before running the chatbot, ensure your system meets the following requirements.
 All dependencies are listed in `requirements.txt`.
 
 ---
-"""
-### Project Structure:
+## Project Structure
 
+```text
 endee/
 ├── README.md
 ├── RAG_Chatbot/
@@ -69,6 +69,8 @@ endee/
 │   ├── __pycache__/        # Python bytecode cache (auto-generated)
 │   └── data/
 │       └── docs.txt        # Knowledge base documents
+```
+
 
 ### Note:
 - This file demonstrates a lightweight Python wrapper.
