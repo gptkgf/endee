@@ -56,7 +56,7 @@ All dependencies are listed in `requirements.txt`.
 ---
 
 """
-**Project Structure**
+### Project Structure
 
 RAG_Chatbot/
 │
@@ -69,7 +69,7 @@ RAG_Chatbot/
 ├── requirements.txt
 └── README.md
 
-**Note:**
+### Note:
 This file acts as a lightweight Python wrapper to demonstrate
 Endee-style vector storage and similarity search for evaluation purposes.
 """
