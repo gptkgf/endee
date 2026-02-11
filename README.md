@@ -71,10 +71,10 @@ endee/
 │       └── docs.txt        # Knowledge base documents
 
 Note:
-- This file demonstrates a lightweight Python wrapper for Endee-style
-  vector storage and similarity search.
+- This file demonstrates a lightweight Python wrapper.
 - __pycache__ is auto-generated and not committed to GitHub.
 """
+
 
 
 
