@@ -54,10 +54,6 @@ Before running the chatbot, ensure your system meets the following requirements.
 All dependencies are listed in `requirements.txt`.
 
 ---
-
-"""
-### Project Structure
-
 """
 Project Structure:
 
@@ -73,13 +69,13 @@ endee/
 │   ├── __pycache__/        # Python bytecode cache (auto-generated)
 │   └── data/
 │       └── docs.txt        # Knowledge base documents
+
+Note:
+- This file demonstrates a lightweight Python wrapper for Endee-style
+  vector storage and similarity search.
+- __pycache__ is auto-generated and not committed to GitHub.
 """
 
-
-### Note:
-This file acts as a lightweight Python wrapper to demonstrate
-Endee-style vector storage and similarity search for evaluation purposes.
-"""
 
 
 ## Core Components
