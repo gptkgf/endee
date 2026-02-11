@@ -58,16 +58,23 @@ All dependencies are listed in `requirements.txt`.
 """
 ### Project Structure
 
-RAG_Chatbot/
-│
-├── app.py              # ChatGPT-style dashboard
-├── rag.py              # Retrieval + response logic
-├── ingest.py           # Document ingestion & embedding creation
-├── endee.py            # Vector database wrapper (Endee)
-├── data/
-│   └── docs.txt        # Knowledge base (documents)
-├── requirements.txt
-└── README.md
+"""
+Project Structure:
+
+endee/
+├── README.md
+├── RAG_Chatbot/
+│   ├── app.py              # ChatGPT-style dashboard (Flask)
+│   ├── ingest.py           # Loads documents and creates embeddings
+│   ├── rag.py              # RAG logic (retrieve + answer)
+│   ├── search.py           # Semantic search testing
+│   ├── endee.py            # Endee vector DB wrapper (demo)
+│   ├── dashboard.png       # UI screenshot
+│   ├── __pycache__/        # Python bytecode cache (auto-generated)
+│   └── data/
+│       └── docs.txt        # Knowledge base documents
+"""
+
 
 ### Note:
 This file acts as a lightweight Python wrapper to demonstrate
