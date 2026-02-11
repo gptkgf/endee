@@ -55,7 +55,7 @@ All dependencies are listed in `requirements.txt`.
 
 ---
 """
-Project Structure:
+### Project Structure:
 
 endee/
 ├── README.md
@@ -70,7 +70,7 @@ endee/
 │   └── data/
 │       └── docs.txt        # Knowledge base documents
 
-Note:
+### Note:
 - This file demonstrates a lightweight Python wrapper.
 - __pycache__ is auto-generated and not committed to GitHub.
 """
